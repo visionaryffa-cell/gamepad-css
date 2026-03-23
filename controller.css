@@ -2,7 +2,7 @@
 .controller.ds4 {
     position: relative;
     overflow: visible;
-    background: url(Black_SkinNo_Buttons.png);
+    background: url(https://justehcupcake.github.io/PS5_Display_Pics/Black_SkinNo_Buttons.png);
     background-repeat: no-repeat;
     height: 700px;
     width: 1200px;
@@ -23,7 +23,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(Trigger_Pressed.png);
+    background: url(https://justehcupcake.github.io/PS5_Display_Pics/Trigger_Pressed.png);
     opacity: 0;
 }
 
@@ -39,7 +39,7 @@
 .ds4 .bumper {
     width: 200px;
     height: 45px;
-    background: url(Bumper.png) no-repeat;
+    background: url(https://justehcupcake.github.io/PS5_Display_Pics/Bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -73,7 +73,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(Touchpad.png) no-repeat center;
+    background: url(https://justehcupcake.github.io/PS5_Display_Pics/Touchpad.png) no-repeat center;
 }
 
 .ds4 .meta {
@@ -85,7 +85,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(Home.png) no-repeat center;
+    background: url(https://justehcupcake.github.io/PS5_Display_Pics/Home.png) no-repeat center;
 }
 
 /* Not needed, but kept here for posterity
@@ -113,7 +113,7 @@
 
 .ds4 .back,
 .ds4 .start {
-    background: url(Select.png);
+    background: url(https://justehcupcake.github.io/PS5_Display_Pics/Select.png);
     width: 26px;
     height: 43px;
     opacity: 0;
@@ -190,7 +190,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(Sticks.png);
+    background: url(https://justehcupcake.github.io/PS5_Display_Pics/Sticks.png);
     height: 94px;
     width: 94px;
 }
@@ -270,7 +270,7 @@
 /* BEGIN PS4 White Controller Styling */
 .ds4.white .back,
 .ds4.white .start {
-    background-image: url(Start.png);
+    background-image: url(https://justehcupcake.github.io/PS5_Display_Pics/Start.png);
     width: 26px;
     height: 43px;
 }
